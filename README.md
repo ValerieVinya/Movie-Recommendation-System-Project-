@@ -41,7 +41,7 @@ Exploratory data analysis is conducted to understand user behavior, movie charac
 - Developed a hybrid recommendation system that adapts to user preferences and item characteristics.
 
 ### Reproducibility
-To access the data used in this project, simply click on the links provided under this repositoryand the files will be downloaded to your local computer.
+To access the data used in this project, simply click on the files provided under the repository and the files will be downloaded to your local computer.
 
 ## Evaluation
 - Evaluated model performance using metrics such as RMSE and MAE for collaborative filtering.
